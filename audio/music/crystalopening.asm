@@ -6,7 +6,7 @@ Music_CrystalOpening:
 	channel 4, Music_CrystalOpening_Ch4
 
 Music_CrystalOpening_Ch1:
-	tempo 160
+	tempo 140
 	volume 10, 10
 	pitch_offset 2
 	vibrato 16, 3, 4
