@@ -243,10 +243,13 @@ EggMovePointers::
 	dw MiltankEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
+	dw NoEggMoves
+	dw NoEggMoves
 	dw LarvitarEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
+	dw NoEggMoves
+	dw NoEggMoves
+	dw NoEggMoves
 	dw GorochuEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
 	assert_table_length NUM_POKEMON

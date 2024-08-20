@@ -3359,7 +3359,7 @@ CelebiEvosAttacks:
 GorochuEvosAttacks:
 	db EVOLVE_HAPPINESS, TR_ANYTIME, SNORLAX
 	db 0 ; no more evolutions
-	db 1, TTHUNDERBOLT
+	db 1, THUNDERBOLT
 	db 1, METRONOME
 	db 8, FIRE_PUNCH
 	db 13, FLAMETHROWER
