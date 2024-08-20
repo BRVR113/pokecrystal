@@ -5,6 +5,6 @@
 	next "to escape the,"
 	next "Burning Tower"
 
-	page "It Hid Here"
-	next "To Learn and Control"
+	page "It hid here"
+	next "to Control"
 	next "its fire powers.@"
