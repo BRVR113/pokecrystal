@@ -6,10 +6,10 @@ Music_MainMenu:
 	channel 4, Music_MainMenu_Ch4
 
 Music_MainMenu_Ch1:
-	tempo 160
+	tempo 108
 	volume 7, 7
 	duty_cycle 3
-	pitch_offset 1
+	pitch_offset 3
 	vibrato 16, 1, 5
 	stereo_panning TRUE, FALSE
 	note_type 12, 0, -7

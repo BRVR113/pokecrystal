@@ -1,11 +1,11 @@
 	db CYNDAQUIL ; 155
 
-	db  39,  52,  43,  65,  60,  50
-	;   hp  atk  def  spd  sat  sdf
+	db  255,  245,  43,  150,  205,  110
+	;   hp    atk   def  spd  sat    sdf
 
-	db FIRE, FIRE ; type
+	db ICE, ICE ; type
 	db 45 ; catch rate
-	db 65 ; base exp
+	db 110 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_F12_5 ; gender ratio
 	db 100 ; unknown 1

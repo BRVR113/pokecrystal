@@ -5,7 +5,7 @@ Music_ProfOak:
 	channel 3, Music_ProfOak_Ch3
 
 Music_ProfOak_Ch1:
-	tempo 118
+	tempo 125
 	volume 7, 7
 	vibrato 18, 3, 4
 	pitch_offset 1

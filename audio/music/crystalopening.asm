@@ -6,25 +6,25 @@ Music_CrystalOpening:
 	channel 4, Music_CrystalOpening_Ch4
 
 Music_CrystalOpening_Ch1:
-	tempo 136
-	volume 7, 7
+	tempo 160
+	volume 10, 10
 	pitch_offset 2
 	vibrato 16, 3, 4
 	duty_cycle 3
 	stereo_panning TRUE, FALSE
 	note_type 12, 9, 2
 	octave 2
-	note F#, 2
 	note F#, 4
-	note F#, 2
-	note F#, 2
 	note F#, 4
+	note F#, 5
 	note F#, 2
 	note F#, 2
+	note F#, 2
+	note F#, 5
 	note F#, 4
-	note F#, 2
-	note F#, 2
 	note F#, 6
+	note F#, 2
+	note F#, 1
 	note_type 12, 11, 4
 	octave 2
 	note B_, 2

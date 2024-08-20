@@ -5,37 +5,37 @@ Music_JohtoWildBattle:
 	channel 3, Music_JohtoWildBattle_Ch3
 
 Music_JohtoWildBattle_Ch1:
-	tempo 104
+	tempo 105
 	volume 7, 7
 	duty_cycle 3
-	pitch_offset 2
-	vibrato 18, 1, 5
+	pitch_offset 8
+	vibrato 10, 1, 5
 .body:
 	note_type 12, 11, 2
 	octave 4
 	note C_, 1
 	octave 3
-	note B_, 1
+	note B_, 2
 	note A#, 1
-	note A_, 1
+	note A_, 2
 	note A#, 1
-	note A_, 1
+	note A_, 2
 	note G#, 1
-	note G_, 1
+	note G_, 2
 	note G#, 1
-	note G_, 1
+	note G_, 2
 	note F#, 1
-	note F_, 1
+	note F_, 2
 	note F#, 1
-	note F_, 1
+	note F_, 2
 	note E_, 1
-	note D#, 1
+	note D#, 2
 	note E_, 1
-	note D#, 1
+	note D#, 2
 	note D_, 1
-	note C#, 1
+	note C#, 2
 	note D_, 1
-	note C#, 1
+	note C#, 2
 	note C_, 1
 	octave 2
 	note B_, 1
@@ -204,7 +204,7 @@ Music_JohtoWildBattle_Ch1:
 Music_JohtoWildBattle_Ch2:
 	duty_cycle 3
 	vibrato 8, 3, 6
-	pitch_offset 1
+	pitch_offset 8
 	sound_call .sub1
 	note_type 12, 12, 2
 	octave 4
@@ -417,6 +417,7 @@ Music_JohtoWildBattle_Ch2:
 
 Music_JohtoWildBattle_Ch3:
 	note_type 12, 1, 4
+	pitch_offset 3
 .body:
 	octave 4
 	note G_, 2

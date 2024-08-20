@@ -3355,3 +3355,19 @@ CelebiEvosAttacks:
 	db 40, BATON_PASS
 	db 50, PERISH_SONG
 	db 0 ; no more level-up moves
+
+GorochuEvosAttacks:
+	db EVOLVE_HAPPINESS, TR_ANYTIME, SNORLAX
+	db 0 ; no more evolutions
+	db 1, TTHUNDERBOLT
+	db 1, METRONOME
+	db 8, FIRE_PUNCH
+	db 13, FLAMETHROWER
+	db 20, AEROBLAST
+	db 25, PROTECT
+	db 36, SACRED_FIRE
+	db 36, REST
+	db 43, BODY_SLAM
+	db 50, ROLLOUT
+	db 60, FUTURE_SIGHT
+	db 0 ; no more level-up moves

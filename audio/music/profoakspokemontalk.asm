@@ -7,14 +7,14 @@ Music_ProfOaksPokemonTalk:
 	db $3 ; unused, leftover from a channel 4
 
 Music_ProfOaksPokemonTalk_Ch1:
-	tempo 164
+	tempo 145
 	volume 7, 7
 	stereo_panning FALSE, TRUE
 	vibrato 6, 2, 5
 	duty_cycle 1
 	note_type 12, 9, 4
 	rest 8
-	octave 3
+	octave 2
 	note B_, 1
 	octave 4
 	note C#, 1

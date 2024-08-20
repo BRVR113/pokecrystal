@@ -6,11 +6,11 @@ Music_TitleScreen:
 	channel 4, Music_TitleScreen_Ch4
 
 Music_TitleScreen_Ch1:
-	tempo 134
+	tempo 150
 	volume 7, 7
 	duty_cycle 3
-	pitch_offset 2
-	vibrato 16, 1, 2
+	pitch_offset 5
+	vibrato 16, 1, 3
 	stereo_panning TRUE, FALSE
 	note_type 12, 10, 7
 	volume_envelope 10, 0
@@ -294,6 +294,7 @@ Music_TitleScreen_Ch1:
 
 Music_TitleScreen_Ch2:
 	duty_cycle 3
+	pitch_offset 5
 	vibrato 20, 1, 2
 	note_type 12, 12, 7
 	volume_envelope 10, 4

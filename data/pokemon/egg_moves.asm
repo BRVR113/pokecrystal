@@ -805,5 +805,9 @@ LarvitarEggMoves:
 	db ANCIENTPOWER
 	db -1 ; end
 
+GorochuEggMoves:
+ 	db SWORDS_DANCE
+ 	db -1 ; end
+
 NoEggMoves:
 	db -1 ; end
